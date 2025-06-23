@@ -16,7 +16,7 @@ JourneyGenie is a web application that generates personalized travel itineraries
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/JourneyGenie.git
+    git clone https://github.com/ppraneth/JourneyGenie.git
     cd JourneyGenie
     ```
 
